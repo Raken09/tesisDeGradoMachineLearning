@@ -1,0 +1,22 @@
+Cuantificar grupos funcionales (Sumar o realizar sumatoria de todas las lngitudes de onda que correspondan con el grupo funcional)
+Por ejemplo: 
+Cafeina esta entre -3000 y -2500, entonces se suman los 500 valores que corresponden con esas longitudes de onda.
+Sello rojo = 700 
+Juan Valdez = 1200
+Oma = 900
+El valor mas alto encontrado será el punto de referencia para alto
+El valor mas bajo encontrado será el punto de referencia para bajo
+Sumamos alto y bajo y se divide entre 2 y se le suma y resta el 10% para obtener el rango medio
+
+Ahora los grupos que se seleccionarán serán en base a la tesis de Tatiana porque los definió tanto con nombre como con rango espectral
+
+En donde se encuentren diferencias en las graficas notables, buscar esos grupos funcionales
+
+De los 900 valores que entrega matlab, corresponden con las 3600 longitudes de onda del ftir, por lo tanto
+cuando se definan los rangos de los grupos funcionales se utilizarán estos valores para sumarlos 
+
+Se va a crear una matriz que almacene los grupos funcionales con sus respectivos valores y les haga estadistica a cada uno
+Por ejemplo: 
+
+
+Para clasificar se utilizó la herramienta de matlab llamada: Clasification Learner
