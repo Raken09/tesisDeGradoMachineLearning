@@ -1,7 +1,7 @@
 # Tesis De Grado Machine Learning
 Algoritmo realizado para la tesis de grado de ingeniería electrónica, el cual mediante machine learning se emplean métodos de clasificación sobre muestras de café tostado molido.
 
-Se realizó en analisis FTIR de muestras de café tostado y molido vendido en supermercados de la ciudad de Neiva, luego se clasificaron las muestras mediante tecnicas de machine learning supervisado.
+Se realizó un analisis FTIR a muestras de café tostado y molido vendido en supermercados de la ciudad de Neiva, luego se clasificaron las muestras mediante tecnicas de machine learning supervisado.
 
 DESCRIPCIÓN DEL ALGORITMO "main.m":
 
